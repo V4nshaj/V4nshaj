@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @V4nshaj
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning c/c++
+- 🌱 I’m currently learning c/c++, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
