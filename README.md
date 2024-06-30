@@ -133,6 +133,17 @@
   <img src="GIF/Handshake.gif" height="25px"/>
 </h1>
 
+<p align="center">
+<a href="https://linkedin.com/in/vanshaj-barnwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vanshaj" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/sarthaksach3004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarthaksach3004" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sarthak_sach18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sarthak_sach18" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sarthaksachdev_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarthaksachdev_1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Sarthak_Sach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sarthaksachdev" height="30" width="40" /></a> -->
+<a href="https://www.leetcode.com/v4nshaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vanshaj" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerearth.com/@sarthak_sachdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hacker-earth.svg" alt="HackerEarth" height="30" width="40" /></a> -->
+</p>
+
+<br />
 <div align="center">
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
