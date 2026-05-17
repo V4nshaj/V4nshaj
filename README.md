@@ -29,7 +29,7 @@
 </p>
 <!-- <p align="center">
   <code>
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2FV4nshaj" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛 Score">
+    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2FV4nshaj" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
   </code>
 </p> -->
 
@@ -83,7 +83,7 @@
 <br/>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=V4nshaj&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=V4nshaj&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V4nshaj&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 </details>
@@ -93,23 +93,63 @@
 
 <!-- ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg) -->
 
+<h4 align="center">
+  
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@        o o                                           @@
-@@        | |                                           @@
-@@       _L_L_                                          @@
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
 @@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out    @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
 @@   ❮/ \`-'/ \❯                                       @@
-@@      _/`U'\_                                         @@
-@@     ( .   . )     .----------------------------.     @@
-@@    / /     \ \    | while( ! (succeed=try() ) ) |     @@
-@@    \ |  ,  | /    '----------------------------'     @@
-@@     \|=====|/                                        @@
-@@      |_.^._|                                         @@
-@@      | |"| |                                         @@
-@@      ( ) ( )   Testing leads to failure              @@
-@@      |_| |_|   and failure leads to understanding    @@
-@@  _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                     @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+
+</h4>  
+  
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+
+<br/>
+
+#
+
+<br>
+
+<!--END_SECTION:waka-->
+<h1>
+  Connect With Me
+  <img src="GIF/Handshake.gif" height="25px"/>
+</h1>
+
+<p align="center">
+<a href="https://linkedin.com/in/vanshaj-barnwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vanshaj" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/sarthaksach3004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarthaksach3004" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sarthak_sach18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sarthak_sach18" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sarthaksachdev_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarthaksachdev_1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Sarthak_Sach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sarthaksachdev" height="30" width="40" /></a> -->
+<a href="https://www.leetcode.com/v4nshaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vanshaj" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerearth.com/@sarthak_sachdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hacker-earth.svg" alt="HackerEarth" height="30" width="40" /></a> -->
+</p>
+
+<br />
+<div align="center">
+
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
+
+#
+
+![footer](WEBP/footer.webp)
